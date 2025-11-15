@@ -6,7 +6,7 @@
 
 | Валюта      | Сеть      | Адрес |
 |-------------|-----------|-------|
-| **TONCOIN**     |       | `UQDRHm85pTh6Xxnnk3HQe-URAWxkab8pZr6TRimOlFerRIJR` |
+| **TON**     |       | `UQDRHm85pTh6Xxnnk3HQe-URAWxkab8pZr6TRimOlFerRIJR` |
 | **USDT**    | TRC20     | `TAG7cicdnDzz87YBe9ik5NwxavKXxLvWH7` |
 | **USDT**    | ERC20     | `0x69BE0548f0186aD66cBe08957Ba6aFa4BE18f1AE` |
 | **USDT**    | TON       | `UQAOYNlnmEyS_nx23Rq-QeXNCWvUVHMlTWPqWz9kYj_0udtK` |
