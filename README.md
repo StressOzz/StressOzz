@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=StressOzz&style=flat)
+![](https://komarev.com/ghpvc/?username=StressOzz&style=for-the-badge&color=red)
+
+[![StressOzz profile views](https://u8views.com/api/v1/github/profiles/131419324/views/day-week-month-total-count.svg)](https://u8views.com/github/StressOzz)
 
 ![StressOzz GitHub stats](https://github-readme-stats.vercel.app/api?username=StressOzz&cache_seconds=21600&show_icons=true&theme=transparent&disable_animations=true&hide=contribs&include_all_commits=true&custom_title=StressOzz%27s%20GitHub%20stats)
 
