@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=StressOzz&style=for-the-badge&color=red)
+![](https://komarev.com/ghpvc/?username=StressOzz&style=for-the-badge&color=red&label=Просмотры+профиля)
 
 ![StressOzz GitHub stats](https://github-readme-stats.vercel.app/api?username=StressOzz&cache_seconds=21600&show_icons=true&theme=transparent&hide_title=true&include_all_commits=true&&hide=prs&show=discussions_started,discussions_answered&locale=ru&number_format=long&rank_icon=percentile)
 
