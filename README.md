@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=StressOzz&style=for-the-badge&color=red)
 
-[![StressOzz profile views](https://u8views.com/api/v1/github/profiles/131419324/views/day-week-month-total-count.svg)](https://u8views.com/github/StressOzz)
-
 ![StressOzz GitHub stats](https://github-readme-stats.vercel.app/api?username=StressOzz&cache_seconds=21600&show_icons=true&theme=transparent&hide_title=true&include_all_commits=true&&hide=prs&show=discussions_started,discussions_answered&locale=ru&number_format=long&rank_icon=percentile)
 
 ## 💠 Поддержать проект
+
+<img width="204" height="262" alt="Безымянный" src="https://github.com/user-attachments/assets/9cdbf964-13e6-4e77-ad55-81ce1cf7b2b5" />
 
 | Валюта      | Сеть      | Адрес |
 |-------------|-----------|-------|
