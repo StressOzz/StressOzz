@@ -4,7 +4,10 @@
 
 ## 💠 Поддержать автора
 ### 2204 3201 9504 1613
-<img width="204" height="262" alt="Безымянный" src="https://github.com/user-attachments/assets/9cdbf964-13e6-4e77-ad55-81ce1cf7b2b5" />
+<img width="244" height="302" alt="Безымянный" src="https://github.com/user-attachments/assets/9cdbf964-13e6-4e77-ad55-81ce1cf7b2b5" />
+
+<img width="200" height="200" alt="QR картинка" src="https://github.com/user-attachments/assets/7380bc47-7b50-4465-a0ae-4a93a4ce148b" />
+
 
 
 | Валюта      | Сеть      | Адрес |
