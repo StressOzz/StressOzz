@@ -3,9 +3,8 @@
 ![StressOzz GitHub stats](https://github-readme-stats.vercel.app/api?username=StressOzz&cache_seconds=21600&show_icons=true&theme=transparent&hide_title=true&include_all_commits=true&&hide=prs&show=discussions_started,discussions_answered&locale=ru&number_format=long&rank_icon=percentile)
 
 ## 💠 Поддержать автора
-<img width="324" height="301" alt="1" src="https://github.com/user-attachments/assets/f6586107-bf8b-4581-8121-f5680c535b83" />
-<img width="200" height="200" alt="QR картинка" src="https://github.com/user-attachments/assets/7380bc47-7b50-4465-a0ae-4a93a4ce148b" />
-
+<img width="333" height="400" src="https://github.com/user-attachments/assets/0bc2b809-4b45-472d-81c0-bbcad82745fb" />
+<img width="200" height="200" src="https://github.com/user-attachments/assets/7380bc47-7b50-4465-a0ae-4a93a4ce148b" />
 
 | Валюта      | Сеть      | Адрес |
 |-------------|-----------|-------|
@@ -15,4 +14,3 @@
 | **USDT**    | TON       | `UQAOYNlnmEyS_nx23Rq-QeXNCWvUVHMlTWPqWz9kYj_0udtK` |
 | **BTC**    |        | `bc1qh76m52zfj3yhmfy5jevu77yr0va0l8j6ewltvx` |
 | **ETH**    |        | `0x69BE0548f0186aD66cBe08957Ba6aFa4BE18f1AE` |
-
