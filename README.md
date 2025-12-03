@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=StressOzz&style=for-the-badge&color=red&label=Просмотры+профиля)
 
-![StressOzz GitHub stats](https://github-readme-stats.vercel.app/api?username=StressOzz&cache_seconds=21600&show_icons=true&theme=transparent&hide_title=true&include_all_commits=true&&hide=prs&show=discussions_started,discussions_answered&locale=ru&number_format=long&rank_icon=percentile)
-
 ## 💠 Буду благодарен за любую поддержку
 <img width="333" height="400" src="https://github.com/user-attachments/assets/0bc2b809-4b45-472d-81c0-bbcad82745fb" />    [<img width="200" height="200" src="https://github.com/user-attachments/assets/7380bc47-7b50-4465-a0ae-4a93a4ce148b" />](https://finance.ozon.ru/apps/sbp/ozonbankpay/019ac043-7a51-799d-b983-cb7dcb08d8bc)
 
