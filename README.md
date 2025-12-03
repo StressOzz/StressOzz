@@ -13,3 +13,7 @@
 | **USDT**    | TON       | `UQAOYNlnmEyS_nx23Rq-QeXNCWvUVHMlTWPqWz9kYj_0udtK` |
 | **BTC**    |        | `bc1qh76m52zfj3yhmfy5jevu77yr0va0l8j6ewltvx` |
 | **ETH**    |        | `0x69BE0548f0186aD66cBe08957Ba6aFa4BE18f1AE` |
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=StressOzz/Zapret-Manager&type=date&legend=top-left)](https://www.star-history.com/#StressOzz/Zapret-Manager&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=StressOzz/Podkop-ByeDPI-OpenWRT&type=date&legend=top-left)](https://www.star-history.com/#StressOzz/Podkop-ByeDPI-OpenWRT&type=date&legend=top-left)
