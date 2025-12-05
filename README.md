@@ -5,6 +5,8 @@
 
 [<img width="540" height="149" alt="Безымянный" src="https://github.com/user-attachments/assets/de86633a-fd9c-485e-b40a-05b5d24dbe42" />](https://finance.ozon.ru/apps/sbp/ozonbankpay/019ac043-7a51-799d-b983-cb7dcb08d8bc)
 
+[<img width="540" height="366" alt="1111111111111111" src="https://github.com/user-attachments/assets/0005150a-b259-4d5d-8872-53783b619406" />](https://pay.cloudtips.ru/p/3bae8300)
+
 | Валюта      | Сеть      | Адрес |
 |-------------|-----------|-------|
 | **TON**     |       | `UQDRHm85pTh6Xxnnk3HQe-URAWxkab8pZr6TRimOlFerRIJR` |
