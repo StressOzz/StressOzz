@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=StressOzz&style=for-the-badge&color=red&label=Просмотры+профиля)
 
-## 🤍💙❤️ Спасибо каждому, кто поддерживает 🤍💙❤️
+## 💖 СПАСИБО ЗА ВАШУ ПОДДЕРЖКУ ! 💖
 <img width="333" height="400" src="https://github.com/user-attachments/assets/0bc2b809-4b45-472d-81c0-bbcad82745fb" />    [<img width="200" height="200" src="https://github.com/user-attachments/assets/7380bc47-7b50-4465-a0ae-4a93a4ce148b" />](https://finance.ozon.ru/apps/sbp/ozonbankpay/019ac043-7a51-799d-b983-cb7dcb08d8bc)
 
 [<img width="540" height="149" alt="Безымянный" src="https://github.com/user-attachments/assets/de86633a-fd9c-485e-b40a-05b5d24dbe42" />](https://finance.ozon.ru/apps/sbp/ozonbankpay/019ac043-7a51-799d-b983-cb7dcb08d8bc)
