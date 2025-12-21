@@ -22,4 +22,4 @@
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=StressOzz/Zapret-Manager&type=date&legend=top-left)](https://www.star-history.com/#StressOzz/Zapret-Manager&type=date&legend=top-left)
-[![Star History Chart](https://api.star-history.com/svg?repos=StressOzz/Podkop-ByeDPI-OpenWRT&type=date&legend=top-left)](https://www.star-history.com/#StressOzz/Podkop-ByeDPI-OpenWRT&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=StressOzz/Podkop-Manager&type=date&legend=top-left)](https://www.star-history.com/#StressOzz/Podkop-Manager&type=date&legend=top-left)
