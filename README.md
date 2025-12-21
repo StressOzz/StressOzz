@@ -2,7 +2,7 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/stressozz?style=flat-square&label=All%20stars)
 ![GitHub Repo stars](https://img.shields.io/github/stars/stressozz/Zapret-Manager?style=flat-square&label=Zapret-Manager%20Stars)
-![GitHub Repo stars](https://img.shields.io/github/stars/stressozz/Podkop-ByeDPI-OpenWRT?style=flat-square&label=Podkop-ByeDPI-OpenWRT%20Stars)
+![GitHub Repo stars](https://img.shields.io/github/stars/stressozz/Podkop-ByeDPI-OpenWRT?style=flat-square&label=Podkop-Manager%20Stars)
 
 ## 💖 СПАСИБО ЗА ВАШУ ПОДДЕРЖКУ ! 💖
 <img width="333" height="400" src="https://github.com/user-attachments/assets/0bc2b809-4b45-472d-81c0-bbcad82745fb" />    [<img width="200" height="200" src="https://github.com/user-attachments/assets/7380bc47-7b50-4465-a0ae-4a93a4ce148b" />](https://finance.ozon.ru/apps/sbp/ozonbankpay/019ac043-7a51-799d-b983-cb7dcb08d8bc)
