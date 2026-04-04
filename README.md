@@ -20,7 +20,7 @@
 | **BTC**    |        | `bc1qh76m52zfj3yhmfy5jevu77yr0va0l8j6ewltvx` |
 | **ETH**    |        | `0x69BE0548f0186aD66cBe08957Ba6aFa4BE18f1AE` |
 
-<a href="https://www.star-history.com/?repos=StressOzz%2FZapret-Manager%2CStressOzz%2FPodkop-Manager%2CStressOzz%2FMixomo-Manager%2CStressOzz%2Ftg-ws-proxy-Manager&type=date&logscale=&legend=top-left">
+<a href="https://www.star-history.com/?repos=StressOzz%2FZapret-Manager%2CStressOzz%2FPodkop-Manager%2CStressOzz%2FMixomo-Manager%2CStressOzz%2Ftg-ws-proxy-Manager&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=StressOzz/Zapret-Manager%2CStressOzz/Podkop-Manager%2CStressOzz/Mixomo-Manager%2CStressOzz/tg-ws-proxy-Manager&type=date&theme=dark&legend=top-left" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=StressOzz/Zapret-Manager%2CStressOzz/Podkop-Manager%2CStressOzz/Mixomo-Manager%2CStressOzz/tg-ws-proxy-Manager&type=date&legend=top-left" />
