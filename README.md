@@ -5,7 +5,17 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/stressozz/Podkop-ByeDPI-OpenWRT?style=flat-square&label=Podkop-Manager%20Stars)
 
 ## 💖 СПАСИБО ЗА ВАШУ ПОДДЕРЖКУ ! 💖
-<img width="333" height="400" src="https://github.com/user-attachments/assets/0bc2b809-4b45-472d-81c0-bbcad82745fb" />    [<img width="200" height="200" src="https://github.com/user-attachments/assets/7380bc47-7b50-4465-a0ae-4a93a4ce148b" />](https://finance.ozon.ru/apps/sbp/ozonbankpay/019ac043-7a51-799d-b983-cb7dcb08d8bc)
+
+#### Можете поддержать меня, оформив подписку на [**StressKVN**](https://t.me/StressKVN_bot).
+
+#### За **200** рублей в месяц вы получаете более **20** локаций без ограничений для 3 и более устройств, с возможностью добавить подписку на роутер в [**Mixomo-Manager**](https://github.com/StressOzz/Mixomo-Manager) !
+
+[<img width="270" height="2778" alt="image" src="https://github.com/user-attachments/assets/88c96e20-febc-42e7-ae02-320f8eaedb63" />](https://t.me/StressKVN_bot)
+
+
+
+
+[<img width="333" height="400" src="https://github.com/user-attachments/assets/0bc2b809-4b45-472d-81c0-bbcad82745fb" />](https://finance.ozon.ru/apps/sbp/ozonbankpay/019ac043-7a51-799d-b983-cb7dcb08d8bc)    [<img width="200" height="200" src="https://github.com/user-attachments/assets/7380bc47-7b50-4465-a0ae-4a93a4ce148b" />](https://finance.ozon.ru/apps/sbp/ozonbankpay/019ac043-7a51-799d-b983-cb7dcb08d8bc)
 
 [<img width="540" height="149" alt="Безымянный" src="https://github.com/user-attachments/assets/de86633a-fd9c-485e-b40a-05b5d24dbe42" />](https://finance.ozon.ru/apps/sbp/ozonbankpay/019ac043-7a51-799d-b983-cb7dcb08d8bc)
 
