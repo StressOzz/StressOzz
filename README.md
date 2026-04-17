@@ -6,8 +6,7 @@
 
 ## 💖 СПАСИБО ЗА ВАШУ ПОДДЕРЖКУ ! 💖
 
-#### Можете поддержать меня, оформив подписку на [**StressKVN**](https://t.me/StressKVN_bot).
-#### За **200** рублей в месяц вы получаете более **20** локаций без ограничений для 3 устройств (поддерживаются все устройства), с возможностью добавить подписку на роутер в [**Mixomo-Manager**](https://github.com/StressOzz/Mixomo-Manager) !
+#### Можете поддержать меня, оформив подписку на [**StressKVN**](https://github.com/StressOzz/StressKVN).
 
 [<img width="270" height="310" alt="image" src="https://github.com/user-attachments/assets/88c96e20-febc-42e7-ae02-320f8eaedb63" />](https://t.me/StressKVN_bot)
 
