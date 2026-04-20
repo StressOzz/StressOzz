@@ -6,7 +6,7 @@
 
 ## 💖 СПАСИБО ЗА ВАШУ ПОДДЕРЖКУ ! 💖
 
-### Можете поддержать меня, оформив подписку на [**StressKVN**](https://github.com/StressOzz/StressKVN).
+### Вы можете поддержать меня и получить высококачественный VPN, оформив подписку на [**StressKVN**](https://github.com/StressOzz/StressKVN).
 
 [<img width="270" height="310" alt="image" src="https://github.com/user-attachments/assets/88c96e20-febc-42e7-ae02-320f8eaedb63" />](https://t.me/StressKVN_bot)
 
