@@ -3,13 +3,13 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/stressozz?style=flat-square&label=All%20stars)
 ![GitHub Repo stars](https://img.shields.io/github/stars/stressozz/Zapret-Manager?style=flat-square&label=Zapret-Manager%20Stars)
 ![GitHub Repo stars](https://img.shields.io/github/stars/stressozz/Podkop-ByeDPI-OpenWRT?style=flat-square&label=Podkop-Manager%20Stars)
+![GitHub Repo stars](https://img.shields.io/github/stars/stressozz/Mixomo-Manager?style=flat-square&label=Mixomo-Manager%20Stars)
 
 ## 💖 СПАСИБО ЗА ВАШУ ПОДДЕРЖКУ ! 💖
 
 ### Вы можете поддержать меня и получить высококачественный VPN, оформив подписку на [**StressKVN**](https://github.com/StressOzz/StressKVN).
 
-[<img width="270" height="310" alt="image" src="https://github.com/user-attachments/assets/88c96e20-febc-42e7-ae02-320f8eaedb63" />](https://t.me/StressKVN_bot)
-
+[<img width="270" height="310" alt="image" src="https://github.com/user-attachments/assets/ddbdc24e-a787-4257-a6bd-45f65ce67a24" />](https://t.me/StressKVN_bot)
 
 
 [<img width="270" height="150" src="https://github.com/user-attachments/assets/0bc2b809-4b45-472d-81c0-bbcad82745fb" />](https://finance.ozon.ru/apps/sbp/ozonbankpay/019ac043-7a51-799d-b983-cb7dcb08d8bc)
