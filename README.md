@@ -25,10 +25,11 @@
 | **BTC**    |        | `bc1q7fye0kp456p4x59w2ka7uq4xqtkzncc2hm6suy` |
 | **ETH**    |        | `0x770d0689861815ACf2e389f1C71b2165580E9873` |
 
-<a href="https://www.star-history.com/?repos=StressOzz%2FZapret-Manager%2CStressOzz%2FPodkop-Manager%2CStressOzz%2FMixomo-Manager&type=date&legend=top-left">
+
+<a href="https://www.star-history.com/?repos=StressOzz%2FZapret-Manager%2CStressOzz%2FPodkop-Manager&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=StressOzz/Zapret-Manager%2CStressOzz/Podkop-Manager%2CStressOzz/Mixomo-Manager&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=StressOzz/Zapret-Manager%2CStressOzz/Podkop-Manager%2CStressOzz/Mixomo-Manager&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=StressOzz/Zapret-Manager%2CStressOzz/Podkop-Manager%2CStressOzz/Mixomo-Manager&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=StressOzz/Zapret-Manager%2CStressOzz/Podkop-Manager&type=date&theme=dark&legend=top-left&sealed_token=Z5Cz7-7lItw5y8YVWw7_v7TwxvVxkT_gF5FsSenNqTJ5W0vOR-ilckCtK49qST0a8kizWmJBQtQCwAIO97_D-Cp2m7N3nDL3vqA2Xfs1dnjF1MV4fhAn0CyEcath-0CDkgunlczma-0rdr_mA8n9QA3mbnD2YCrZAWbqAPkM_93hnjPW9r4gFzVVjkNL" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=StressOzz/Zapret-Manager%2CStressOzz/Podkop-Manager&type=date&legend=top-left&sealed_token=Z5Cz7-7lItw5y8YVWw7_v7TwxvVxkT_gF5FsSenNqTJ5W0vOR-ilckCtK49qST0a8kizWmJBQtQCwAIO97_D-Cp2m7N3nDL3vqA2Xfs1dnjF1MV4fhAn0CyEcath-0CDkgunlczma-0rdr_mA8n9QA3mbnD2YCrZAWbqAPkM_93hnjPW9r4gFzVVjkNL" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=StressOzz/Zapret-Manager%2CStressOzz/Podkop-Manager&type=date&legend=top-left&sealed_token=Z5Cz7-7lItw5y8YVWw7_v7TwxvVxkT_gF5FsSenNqTJ5W0vOR-ilckCtK49qST0a8kizWmJBQtQCwAIO97_D-Cp2m7N3nDL3vqA2Xfs1dnjF1MV4fhAn0CyEcath-0CDkgunlczma-0rdr_mA8n9QA3mbnD2YCrZAWbqAPkM_93hnjPW9r4gFzVVjkNL" />
  </picture>
 </a>
