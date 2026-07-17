@@ -18,11 +18,11 @@
 
 | Валюта      | Сеть      | Адрес |
 |-------------|-----------|-------|
-| **TON**     |       | `UQDtnHEiOd_BgYnjxjlZTz7AG-3fdFqjg68mrUc37hIlu5TX` |
+| **GRAM**     |       | `UQBB27wmsJ_6elhp5Nko3Bs8JfFaZau91ECt3Sgjh7xIFiKj` |
 | **USDT**    | TRC20     | `TJ2YYJEvYA8rzXU2nAmFuPbdukxVEK9a78` |
 | **USDT**    | ERC20     | `0x770d0689861815ACf2e389f1C71b2165580E9873` |
-| **USDT**    | TON       | `UQDtnHEiOd_BgYnjxjlZTz7AG-3fdFqjg68mrUc37hIlu5TX` |
-| **BTC**    |        | `bc1q7fye0kp456p4x59w2ka7uq4xqtkzncc2hm6suy` |
+| **USDT**    | TON       | `UQBB27wmsJ_6elhp5Nko3Bs8JfFaZau91ECt3Sgjh7xIFiKj` |
+| **BTC**    |        | `bc1qz2cwcul0l0j2xmhnxav7ruq9k09avh6f6tld95` |
 | **ETH**    |        | `0x770d0689861815ACf2e389f1C71b2165580E9873` |
 
 
