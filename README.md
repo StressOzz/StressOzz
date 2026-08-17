@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-- ### Оставить чаевые:
+- ### Если [VPN](https://github.com/StressOzz/StressKVN) Вам не нужен, то можете оставить чаевые:
 
 [<img width="600" height="130" alt="1111111111111111" src="https://github.com/user-attachments/assets/0005150a-b259-4d5d-8872-53783b619406" />](https://pay.cloudtips.ru/p/0d41f298)
 
