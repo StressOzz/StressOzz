@@ -1,5 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=StressOzz&style=for-the-badge&color=red&label=Просмотры+профиля)
 
+
+<a href="https://t.me/StressOzz_Manager"><img src="https://img.shields.io/badge/Community-Telegram-2CA5E0?style=for-the-badge&logo=telegram"></a>
+
+
 ![GitHub User's stars](https://img.shields.io/github/stars/stressozz?style=flat-square&label=All%20stars)
 ![GitHub Repo stars](https://img.shields.io/github/stars/stressozz/Zapret-Manager?style=flat-square&label=Zapret-Manager%20Stars)
 ![GitHub Repo stars](https://img.shields.io/github/stars/stressozz/Podkop-ByeDPI-OpenWRT?style=flat-square&label=Podkop-Manager%20Stars)
