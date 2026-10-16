@@ -39,6 +39,6 @@
 | **GRAM**     |       | `UQAIgGr6sLl3BVhuOKFA2jlgg6DOaNKv8IojI5Zz3CENxhD-` |
 | **USDT**    | TON       | `UQAIgGr6sLl3BVhuOKFA2jlgg6DOaNKv8IojI5Zz3CENxhD-` |
 | **USDT**    | TRC20     | `TG8MgvC4nuu3mfW6ihe9VK9q1v3sJFu2f9` |
-| **USDT**    | ERC20     | `0x4114391519d6DbE0662bfDEEA7E684C6835A6b73` |
+| **USDT**    | ERC20     | `0x540C17C0B33230317ccFD2349Dd7528558DCc7Ae` |
 | **BTC**    |        | `bc1qp3ednylngckulk4mt63apgxx75z8xj8sxpfgtp` |
-| **ETH**    |        | `0x4114391519d6DbE0662bfDEEA7E684C6835A6b73` |
+| **ETH**    |        | `0x540C17C0B33230317ccFD2349Dd7528558DCc7Ae` |
