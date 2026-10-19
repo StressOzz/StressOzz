@@ -40,5 +40,5 @@
 | **USDT**    | TON       | `UQBOFAgjD__SethkinAHJmWRXWPRtsQxp42oVEEv8TLbUi2o` |
 | **USDT**    | TRC20     | `TG8MgvC4nuu3mfW6ihe9VK9q1v3sJFu2f9` |
 | **USDT**    | ERC20     | `0x540C17C0B33230317ccFD2349Dd7528558DCc7Ae` |
-| **BTC**    |        | `bc1qp3ednylngckulk4mt63apgxx75z8xj8sxpfgtp` |
+| **BTC**    |        | `bc1qekgw55pvh0qlj8kemuxychhfya7n68n2ldr6ll` |
 | **ETH**    |        | `0x540C17C0B33230317ccFD2349Dd7528558DCc7Ae` |
