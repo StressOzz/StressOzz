@@ -42,17 +42,3 @@
 | **USDT**    | ERC20     | `0x475D8194D582487aeB7EBd46454f38513585A88a` |
 | **BTC**    |        | `bc1qy4x4ruu679x6fnveh5l3a2lhyt7maqustgf5fx` |
 | **ETH**    |        | `0x475D8194D582487aeB7EBd46454f38513585A88a` |
-
-
-
-USDT (TON)
-UQBfpAzrmGdTVmG_UdWyAu79OsIUjoRYrE02CD1lb3bZ2fLt
-
-USDT TRON (TRC20)
-TExtfxFwt1ae4rVqrZ8HB3Gpy76RuAiJeU
-
-Bitcoin
-bc1qy4x4ruu679x6fnveh5l3a2lhyt7maqustgf5fx
-
-Ethereum
-0x475D8194D582487aeB7EBd46454f38513585A88a
