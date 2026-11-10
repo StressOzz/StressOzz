@@ -36,9 +36,23 @@
 
 | Валюта      | Сеть      | Адрес |
 |-------------|-----------|-------|
-| **GRAM**     |       | `UQBOFAgjD__SethkinAHJmWRXWPRtsQxp42oVEEv8TLbUi2o` |
-| **USDT**    | TON       | `UQBOFAgjD__SethkinAHJmWRXWPRtsQxp42oVEEv8TLbUi2o` |
-| **USDT**    | TRC20     | `TG8MgvC4nuu3mfW6ihe9VK9q1v3sJFu2f9` |
-| **USDT**    | ERC20     | `0x540C17C0B33230317ccFD2349Dd7528558DCc7Ae` |
-| **BTC**    |        | `bc1qekgw55pvh0qlj8kemuxychhfya7n68n2ldr6ll` |
-| **ETH**    |        | `0x540C17C0B33230317ccFD2349Dd7528558DCc7Ae` |
+| **GRAM**     |       | `UQBfpAzrmGdTVmG_UdWyAu79OsIUjoRYrE02CD1lb3bZ2fLt` |
+| **USDT**    | TON       | `UQBfpAzrmGdTVmG_UdWyAu79OsIUjoRYrE02CD1lb3bZ2fLt` |
+| **USDT**    | TRC20     | `TExtfxFwt1ae4rVqrZ8HB3Gpy76RuAiJeU` |
+| **USDT**    | ERC20     | `0x475D8194D582487aeB7EBd46454f38513585A88a` |
+| **BTC**    |        | `bc1qy4x4ruu679x6fnveh5l3a2lhyt7maqustgf5fx` |
+| **ETH**    |        | `0x475D8194D582487aeB7EBd46454f38513585A88a` |
+
+
+
+USDT (TON)
+UQBfpAzrmGdTVmG_UdWyAu79OsIUjoRYrE02CD1lb3bZ2fLt
+
+USDT TRON (TRC20)
+TExtfxFwt1ae4rVqrZ8HB3Gpy76RuAiJeU
+
+Bitcoin
+bc1qy4x4ruu679x6fnveh5l3a2lhyt7maqustgf5fx
+
+Ethereum
+0x475D8194D582487aeB7EBd46454f38513585A88a
